@@ -1,0 +1,4 @@
+Mode_Label,Avg Power (Std) [W],Avg Power (Ours) [W],Avg Savings [%],Max Savings [%]
+Aggressive Maneuver,824.12,685.51,16.55,30.0
+Lateral Cruise,764.07,646.78,15.3,29.88
+Static Hover,721.49,643.62,10.74,23.75

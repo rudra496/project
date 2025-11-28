@@ -1,0 +1,7 @@
+Parameter,Value,Source_Basis
+Rotor Count,8 (Bidirectional),Brescianini & D'Andrea
+Drone Mass,1.5 kg,Standard FPV Design
+Max Wind Speed,18.0 m/s,Urban Canyon Model
+Rotor Drag Coeff (k),1.2e-6,Momentum Theory
+Solver Latency (Std),0.1 ms,Pseudo-Inverse
+Solver Latency (ML),3.2 ms,Random Forest Inference

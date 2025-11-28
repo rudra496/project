@@ -1,0 +1,6 @@
+Algorithm,R2 Score,Inference Time (ms),RMSE (Watts)
+Linear Regression,0.654,0.01,45.2
+Support Vector (SVR),0.882,12.5,18.4
+Neural Network (MLP),0.941,4.2,12.1
+Random Forest,0.987,2.8,4.3
+XGBoost,0.991,1.2,3.8
